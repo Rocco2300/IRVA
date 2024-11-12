@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 
-namespace ProjectSetup.CustomXRPluginProvider.Scripts.Editor
+namespace ProjectSetup.CustomXRPluginProvider.Scripts
 {
     /// <summary>
     /// XR plug-in management provider helpers.

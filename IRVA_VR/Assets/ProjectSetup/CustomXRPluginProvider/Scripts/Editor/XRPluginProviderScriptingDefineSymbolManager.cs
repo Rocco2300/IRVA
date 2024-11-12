@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using UnityEditor;
 
-namespace ProjectSetup.CustomXRPluginProvider.Scripts.Editor
+namespace ProjectSetup.CustomXRPluginProvider.Scripts
 {
     /// <summary>
     /// Script which adds or removes `UNITY_XR_MANAGEMENT` from the project's Scripting defines symbols if
